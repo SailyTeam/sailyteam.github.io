@@ -1,0 +1,24 @@
+{
+    "name": "Saily",
+    "description": "Saily's official APT repository.",
+    "tint": "#2291eb",
+    "cname": "saily.github.io",
+    "maintainer": {
+        "name": "Saily Team",
+        "email": "breckenpl10@icloud.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/TrySaily"
+        },
+        {
+            "name": "Website",
+            "url": "https://saily.github.io/"
+        }
+    ],
+    "automatic_git": "false",
+    "subfolder": "repo",
+    "footer": "Powered by Silica 1.2.3",
+    "enable_gpg": "false"
+}
