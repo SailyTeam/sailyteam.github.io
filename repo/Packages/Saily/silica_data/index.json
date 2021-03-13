@@ -1,0 +1,48 @@
+{
+    "bundle_id": "com.sailyteam.saily",
+    "name": "Saily",
+    "version": "1.0-2-alpha",
+    "tagline": "Saily is a modern, fast, and beutiful package manager for jailbroken iOS and iPadOS devices.",
+    "homepage": "https://saily.github.io/repo",
+    "developer": {
+        "name": "Saily Team",
+        "email": "breckenpl10@icloud.com"
+    },
+    "maintainer": {
+        "name": "Saily Team",
+        "email": "breckenpl10@icloud.com"
+    },
+    "social": [
+        {
+            "name": "Twitter",
+            "url": "https://twitter.com/TrySaily"
+        },
+        {
+            "name": "Website",
+            "url": "https://saily.github.io/"
+        }
+    ],
+    "sponsor": {
+        "name": " ",
+        "email": " "
+    },
+    "section": "Applications",
+    "pre_dependencies": "firmware (>= 13.0), dpkg, uikittools, apt",
+    "dependencies": "com.anemonetheming.anemone",
+    "conflicts": "com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon",
+    "replaces": "",
+    "provides": "",
+    "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
+
+    "tint": "#55c6d3",
+    "works_min": "12.0",
+    "works_max": "13.0",
+    "featured": "true",
+    "source": "https://github.com/SailyTeam/Saily",
+    "changelog": [
+        {
+            "version": "1.0-2-alpha",
+            "changes": "This release fixed a an issue where the progress bar was not updating in real time during package installations, as well as generally improving application performance by making use of new improvements to the foundation. This release is marked as 'Alpha' due to the fact that we have implemented some things that will serve as a base for our further developments on iOS as we continue to work towards bringing full iPhone support back to Saily. You are responsible for resolving any issues you may encounter while using this Pre-Release Alpha version. This version may be installed via AirDrop or the 'Open in Saily' option if Saily Beta 1595078319 or newer is already installed on your device. Known issues with this version include incomplete/broken localization and an incomplete UI for iOS devices (iPhones)."
+        }
+    ]
+}
