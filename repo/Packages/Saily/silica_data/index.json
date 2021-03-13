@@ -3,7 +3,7 @@
     "name": "Saily",
     "version": "1.0-2-alpha",
     "tagline": "Saily is a modern, fast, and beutiful package manager for jailbroken iOS and iPadOS devices.",
-    "homepage": "https://saily.github.io/repo",
+    "homepage": "https://sailyteam.github.io/repo",
     "developer": {
         "name": "Saily Team",
         "email": "breckenpl10@icloud.com"
@@ -34,7 +34,7 @@
     "provides": "",
     "other_control": ["Tag: role::enduser", "SomeOtherEntryToControl: True"],
 
-    "tint": "#55c6d3",
+    "tint": "#2291eb",
     "works_min": "12.0",
     "works_max": "13.0",
     "featured": "true",
