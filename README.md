@@ -1,2 +1,2 @@
 # Saily Website
-Saily's official website is now live! We will be implementing the APT repository soon in preparation for a Saily update which will be released later this year. Stay tuned for more information!
+Saily's official website is now live! We will be implementing the APT repository soon in preparation for a Saily update which will be released later this year. Stay tuned for more information on that coming sometime in the near future!
